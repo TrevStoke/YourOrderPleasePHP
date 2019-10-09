@@ -1,0 +1,12 @@
+{
+  
+    "require": {
+        "phpunit/phpunit": "8.4.1"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "YourOrderPlease\\": "src/"
+        }
+    }
+}
